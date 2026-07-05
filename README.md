@@ -97,9 +97,9 @@ AWS Cloud Support Engineer | System Administrator | Infrastructure Engineer
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akshay-katiyar10&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-katiyar10&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -109,7 +109,7 @@ AWS Cloud Support Engineer | System Administrator | Infrastructure Engineer
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=akshay-katiyar10&theme=tokyonight"/>
 
 </p>
 
@@ -119,7 +119,7 @@ AWS Cloud Support Engineer | System Administrator | Infrastructure Engineer
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshay-katiyar10&theme=tokyo-night"/>
 
 </p>
 
