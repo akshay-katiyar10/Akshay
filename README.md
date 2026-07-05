@@ -47,9 +47,6 @@ AWS Cloud Support Engineer | System Administrator | Infrastructure Engineer
 
 ✔ Remote Desktop Access
 
-🔗 Repository:
-> Add Repository Link Here
-
 ---
 
 # 💼 Professional Experience
@@ -136,10 +133,10 @@ AWS Cloud Support Engineer | System Administrator | Infrastructure Engineer
 **akshaykatiyar73@gmail.com**
 
 💼 LinkedIn:
-https://linkedin.com/in/YOUR-LINK
+https://www.linkedin.com/in/akshay-katiyar-0b3191231
 
 💻 GitHub:
-https://github.com/YOUR_GITHUB_USERNAME
+https://github.com/akshay-katiyar10/
 
 📄 Resume:
 Upload your latest resume to GitHub and add the link here.
