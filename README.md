@@ -8,16 +8,13 @@ AWS Cloud Support Engineer | System Administrator | Infrastructure Engineer
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AWS+Cloud+Support+Engineer;System+Administrator;Infrastructure+Engineer;Linux+%7C+Docker+%7C+Windows+Server;Always+Learning+New+Cloud+Technologies" />
 </p>
 
----
-
 ## 👨‍💻 About Me
 
-- 💼 IT Infrastructure Professional with **3+ years of experience**
-- ☁️ Transitioning into **AWS Cloud Support & Infrastructure Engineering**
-- 🖥️ Experienced in Windows Server, Active Directory, Office 365 & Enterprise IT
-- 🐧 Hands-on with Linux, Docker and AWS Cloud
-- 🚀 Interested in Cloud Infrastructure, Automation and DevOps
-- 📍 Gurugram, Haryana, India
+I'm an IT Infrastructure professional with **3+ years of experience** supporting enterprise environments, specializing in Windows Server, Active Directory, Microsoft 365, networking, and end-user support.
+
+Currently, I'm expanding my expertise in **AWS Cloud** by building hands-on projects involving Amazon EC2, WorkSpaces, Docker, VPC, IAM, and Linux. My goal is to transition into an **AWS Cloud Support Engineer** role where I can apply both my enterprise IT experience and cloud skills to build reliable and scalable infrastructure.
+
+📍 Gurugram, Haryana, India
 
 ---
 
@@ -96,8 +93,7 @@ AWS Cloud Support Engineer | System Administrator | Infrastructure Engineer
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akshay-katiyar10&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-katiyar10&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akshay-katiyar10&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -119,6 +115,52 @@ AWS Cloud Support Engineer | System Administrator | Infrastructure Engineer
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshay-katiyar10&theme=tokyo-night"/>
 
 </p>
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,windows,git,github,jenkins,ansible,vscode" />
+
+</p>
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Amazon_WorkSpaces-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge"/>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white"/>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Cortex_XDR-FA582D?style=for-the-badge"/>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Ruckus_WiFi-E60000?style=for-the-badge"/>
+</td>
+</tr>
+</table>
 
 ---
 
