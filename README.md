@@ -96,11 +96,8 @@ AWS Cloud Support Engineer | System Administrator | Infrastructure Engineer
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akshay-katiyar10&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-katiyar10&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akshay-katiyar10&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-katiyar10&layout=compact&theme=tokyonight" />
 </p>
 
 ---
