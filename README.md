@@ -35,9 +35,6 @@ AWS Cloud Support Engineer | System Administrator | Infrastructure Engineer
 
 ✔ Hosted Application using Public IP
 
-🔗 Repository:
-> Add Repository Link Here
-
 ---
 
 ## 💻 AWS Virtual Desktop Infrastructure (Amazon WorkSpaces)
